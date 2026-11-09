@@ -1,3 +1,11 @@
+
+.venv/
+__pycache__/
+*.csv
+*.parquet
+*.html
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -218,3 +226,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+>>>>>>> 3380ed4ff9626c232a088733fe97c83240a04ec7
